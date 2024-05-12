@@ -1,0 +1,4 @@
+Flask
+pyspellchecker
+Flask-CORS
+requests
